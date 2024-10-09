@@ -44,7 +44,7 @@ body {
 
 .git-commands__effect {
     background-color: blueviolet;
-    color: red;
+    color: #fff;
     padding: 16px;
     font-size: 1.5rem;
 }
