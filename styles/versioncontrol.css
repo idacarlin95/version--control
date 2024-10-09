@@ -15,6 +15,9 @@ body {
 .header {
     background-color: aquamarine;
     padding: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 .header__page-title {
